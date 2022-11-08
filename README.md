@@ -6,7 +6,7 @@
 |------|---------|
 | 11/10/22 | [Lezione Zero](https://www.imdb.com/title/tt3568052/) |
 | 25/10/22 | [Prima Lezione](https://github.com/CawaAlreadyTaken/NodeJS_Open/tree/main/PrimaLezione) |
-| TBD | - |
+| 08/11/22 | [Seconda Lezione](https://github.com/CawaAlreadyTaken/NodeJS_Open/tree/main/SecondaLezione) |
 | TBD | - |
 | TBD | - |
 | TBD | - |
